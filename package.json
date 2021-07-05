@@ -34,7 +34,7 @@
   "devDependencies": {
     "eslint": "^7.26.0",
     "eslint-config-hexo": "^4.1.0",
-    "mocha": "^8.4.0"
+    "mocha": "^9.0.2"
   },
   "engines": {
     "node": ">=10.18.1"
